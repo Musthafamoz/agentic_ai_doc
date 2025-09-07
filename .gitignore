@@ -1,4 +1,3 @@
 venv/
-/improved_action_classifier.pkl
-/action_classifier.pkl
+*.pkl
 /files/Assignment Description.pdf
