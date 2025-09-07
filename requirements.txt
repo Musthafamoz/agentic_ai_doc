@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+PyPDF2
+python-magic-bin
+langgraph
+langchain
+langchain-core
+streamlit
+pandas
+requests
+scikit-learn
+spacy
+nltk
